@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the blew Ball in Heydon yard in the Little Minories, London, near the Tower, liveth one Mr. Elmy, operator, who prepareth that most excellent and successful arcana, Pilula Homogenea.</title>
+            <author>Elmy, Mr.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21659</idno><idno type="EEBO-CITATION">99888729</idno>
+  <idno type="VID">195936</idno>
+  <idno type="EEBO-PROQUEST">2240899712</idno>
+  
+            <idno type="STC">Wing E634bA</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[131]</idno>
+            <idno type="PROQUEST">ocm99888729</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888729e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195936)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[132])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the blew Ball in Heydon yard in the Little Minories, London, near the Tower, liveth one Mr. Elmy, operator, who prepareth that most excellent and successful arcana, Pilula Homogenea.</title>
+                  <author>Elmy, Mr.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1673 and 1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert">
+            <pb facs="tcp:195936:1"/>
+            <head>At the <hi>blew Ball</hi> in <hi>Heydon yard</hi> in the <hi>Little Mi<g ref="char:EOLhyphen"/>nories, London,</hi> near the Tower, Liveth one Mr. <hi>Elmy, Operator,</hi> who Prepareth that most Excellent and Successful <hi>Arcana,</hi> PILƲLA HOMOGENEA.</head>
+            <p>APproved on by Thousands to be the true and infallible Medicine, in Curing those <hi>Chronick Distempers</hi> reigning in this Age, <hi>viz.</hi> the <hi>Scurvey, Dropsey, Gout,</hi> and <hi>Agues</hi> of all sorts, with many more Maladies incident to Man<g ref="char:EOLhyphen"/>kind, all which ariseth from an ill Habit of the Body; and so a Disease according to <hi>Galen</hi> is defined, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>An Affect contrary to Nature;</hi> And thus a continued Impulse of unconcocted Humours, causing a deep putrefaction of <hi>Me<g ref="char:EOLhyphen"/>lancholy</hi> affecteth the parts ordained for Nourishment, so vitrate the Blood, and is the <hi>Origen</hi> of the <hi>Scurvey,</hi> which is a Disease so well known in <hi>England,</hi> that few or none but are little or much visited with this troublesom Guess, which occasions di<g ref="char:EOLhyphen"/>verse <hi>Phaenomen▪</hi> or <hi>Appearances,</hi> as sometimes <hi>great pains in the Head, dulness, un<g ref="char:EOLhyphen"/>quiet Sleeps, Vertigoes, Rheums in the Eyes, Pains in the Teeth, wasting of the Gums, sore Mouths, Ulcers in the Throat, stinking Breath, bad Digestion, pains in the Armes, Back Thighes, Legs</hi> and <hi>Shin-bones,</hi> with eruptions of putrified Humours, into <hi>Scabs, Pustules, Spots, Ulcers, Tetters, &amp;c.</hi> All these various symptomes are taken away by the use of my pills, for its principles are so well digested, duely corrected, and highly prepared by Art, that it is capable of Assisting Nature in a Friendly man<g ref="char:EOLhyphen"/>ner, totally to eradicate those peccant humours which are prejudicial to life, and have Cured several of long and languishing Distempers in a short time, who had spent both their time and estates in other Mcdicines, to their deplorable miseries.</p>
+            <p>This <hi>Miraculous Pill</hi> is so excellent against the <hi>Dropsey,</hi> that after twice or thrice taking you will every day receive benefit till the Cure be performed, for they do not only carry off the Humours, whether <hi>Flatulent</hi> or <hi>Aqueous,</hi> but likewise strengthen the <hi>Liver,</hi> keeping it in an equal temper, making good Sanguification, and Assisteth Nature to regulate the Body into a perfect state of Health.</p>
+            <p>It hath given Ease to several in the <hi>Góut,</hi> who had layn a long time in great mi<g ref="char:EOLhyphen"/>serie, and had been Tired out with the tedious Potions of others, and never the better; yet have found relief by these pills to their unspeakable benefit, for they evacuate the sharp Humours, and turn the cause from the <hi>Joynts;</hi> ☞ And are as certain a Cure for this racking Disease, as any is in the known World; and who<g ref="char:EOLhyphen"/>ever has been troubled with it, and fear its approaching Relapse, by taking these pills may prevent it for the future.</p>
+            <p>These Pills Cureth <hi>Agues</hi> of all sorts in a short time, by causing a free Circu<g ref="char:EOLhyphen"/>lation of the Blood, and expelling the humours which chiefly aboundeth, as <hi>Choler</hi> in a <hi>Tertian Ague, Phlegm</hi> in a <hi>Quotidian,</hi> and <hi>Melancholy</hi> natural or preternatural in <hi>Quartans.</hi>
+            </p>
+            <pb facs="tcp:195936:2"/>
+            <p> They give great Relief in <hi>Hypoohondraick Melancholy,</hi> for they open <hi>Obstructi<g ref="char:EOLhyphen"/>ons</hi> of the <hi>Spleen, evacuate adust Melancholy Humours from the Stomach</hi> amend the <hi>Distemper of the Bowels,</hi> and <hi>strengthen the Vital Part<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> thereby preventing the Pas<g ref="char:EOLhyphen"/>sions of the Mind, as <hi>Grief, Anger, Melancholy, Peevishntss, &amp;c.</hi>
+            </p>
+            <p>They perfectly Cure the <hi>Jaundice,</hi> a Distemper arising from the evil disposition of the <hi>Liver,</hi> and Obstructions of the <hi>Gall,</hi> hindring the separation of the Chole<g ref="char:EOLhyphen"/>rick humours from the Blood, which Nature striving to cast out, cause the yellow<g ref="char:EOLhyphen"/>ness of the Skin.</p>
+            <p>The <hi>Green Sickness</hi> is a Disease arising from the Obstructions of the <hi>Veins</hi> about the <hi>Womb, Liver, Spleen</hi> and <hi>Mesentery,</hi> causing various Symptomes in young Wo<g ref="char:EOLhyphen"/>men, the course of Nature being stopt, producing a <hi>Cachexie</hi> or evil habit of the Body, alters the <hi>Complexion,</hi> sending ill Vapours to the <hi>Brain,</hi> causeth a Loathing of Meats that are good, occasion swellings in the Belly and Legs, with unwilling<g ref="char:EOLhyphen"/>ness to exercise, attended sometimes with difficulty of Breathing, and universally indispose the Body, so that most Distempers incident to Women may arise from it, by taking some Doses of my pills you may have a perfect Cure in a short time, (with the Blessing of God) as many can testifie.</p>
+            <p>☞ I have Cured hundreds of <hi>Deafness</hi> with these Pills, when no other Physick, nor Manual Operation could perform it; and certainly they are most excellent for all Distempers in the Head, whether primary or by consent, as <hi>inveterate Head<g ref="char:EOLhyphen"/>aches, Phrensies, Giddiness, Convulsions, Apoplexies</hi> and <hi>Stupefactions;</hi> for they won<g ref="char:EOLhyphen"/>derfully strengthen the <hi>Brain</hi> and <hi>Memory.</hi>
+            </p>
+            <p>It is a certain and speedy Remedy which never fails in the <hi>Wind-cholick,</hi> oft<g ref="char:EOLhyphen"/>times giving ease in two houres beyond expectation, and is an excellent Stomach-pill, causing good digestion, curing defluxions of sharp humours, as <hi>Catarrhs</hi> and tickling <hi>Coughs, Killing Wormes</hi> of all sorts in old or young, giving speedy ease to <hi>Sharpness of Urine, the Running of the Reins,</hi> curing all <hi>Surfeits</hi> got by drink<g ref="char:EOLhyphen"/>ing, or otherwise, assisting much toward the Curing of <hi>old Ulcers</hi> in the Legs, or any swellings whatever, and is very proper to be taken after any Fit of Sickness, to prevent a Relapse; ☞ And is very necessary to be taken to prepare the Body; As likewise after the Drinking of <hi>Tunbridge, Epsom, Dullage</hi> waters, <hi>&amp;c.</hi> to carry off those earthly Impurities which may remain in the Body, for they gently purge off all offending humours, sweetning the Blood, and strengthning the Noble parts, enabling them to stand, without decaying old Age.</p>
+            <p>These pills are Sealed up in Tin boxes, the price of the half Box containing twelve pills is one shilling six pence, and the whole Box containing four and twenty pills is three shillings with Directions, and are sold by the Author at the <hi>blew Ball</hi> in <hi>Haydon-</hi>yard in the <hi>Minories,</hi> and at Mr. <hi>Benjamin Harris</hi>'s at the <hi>Stationers Armes</hi> in the <hi>Piazza</hi> under the <hi>Royal Exchange</hi> in <hi>Cornhill,</hi> and at no other places.</p>
+            <p>☞ This pill is free from <hi>Mercury,</hi> and if any person hath been damnified by it, this Noble pill carrieth off whatever poisonous quality it hath left in the Body.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
